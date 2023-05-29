@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058547264429",
+    "project_id": "translator-app-2bf99",
+    "storage_bucket": "translator-app-2bf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058547264429:android:4dc4994a6bf215c40f8f24",
+        "android_client_info": {
+          "package_name": "com.chandanneralgi.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058547264429-gd0fp3a4fkkd4saspelql1mqv2f7bu94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNLSOIp1tAN2kkObL0IAclXY6wBu0lHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058547264429-gd0fp3a4fkkd4saspelql1mqv2f7bu94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
